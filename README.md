@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackLabAdmin
-- 👀 I’m interested in musc, nfts, IT administration
+- 👀 I’m interested in music, nfts, IT administration
 - 🌱 I’m currently learning solidity programming
-- 💞️ I’m looking to collaborate on NFT gaming 
+- 💞️ I’m looking to collaborate on NFT gaming, music apps. 
 - 📫 How to reach me jackod932@gmail.com
 
 <!---
